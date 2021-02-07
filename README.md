@@ -1,5 +1,5 @@
 
-#Task -: Create a python script to check how many images are broken on our website cbdbene.com and list them in an .xls file with their page location
+#Task -: Create a python script to check how many images are broken on our website soleralife.com and list them in an .xls file with their page location
 
 . Created a python script to check if there are any broken images for a given site (i.e contain in urls.py file)
 
